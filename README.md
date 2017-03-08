@@ -1,1 +1,2 @@
-# fuccboi-supreme-master
+# fuccboi-supreme
+Supreme purchasing bot
